@@ -1,0 +1,5 @@
+﻿  Steam_Parser.cpp
+D:\c++\Steam_Parser\Steam_Parser\Steam_Parser.cpp(37): warning C4715: append_link: значение возвращается не при всех путях выполнения
+  Steam_Parser.vcxproj -> D:\c++\Steam_Parser\x64\Debug\Steam_Parser.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
